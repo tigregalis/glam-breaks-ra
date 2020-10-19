@@ -1,0 +1,1 @@
+Trivial example to demonstrate that glam breaks rust-analyzer for some reason.
